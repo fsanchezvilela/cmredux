@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/cmredux/static/js/runtime~main.7ec6f1c2.js"
   },
   {
-    "revision": "ff1662c2ac9fc9fbc180",
-    "url": "/cmredux/static/js/main.ff1662c2.chunk.js"
+    "revision": "3a2f3438f5f29e78d309",
+    "url": "/cmredux/static/js/main.3a2f3438.chunk.js"
   },
   {
-    "revision": "fa89a4db309d612b9ea3",
-    "url": "/cmredux/static/js/1.fa89a4db.chunk.js"
+    "revision": "195c81d0e30cc9c60595",
+    "url": "/cmredux/static/js/1.195c81d0.chunk.js"
   },
   {
-    "revision": "ff1662c2ac9fc9fbc180",
+    "revision": "3a2f3438f5f29e78d309",
     "url": "/cmredux/static/css/main.a41f0652.chunk.css"
   },
   {
-    "revision": "fa89a4db309d612b9ea3",
+    "revision": "195c81d0e30cc9c60595",
     "url": "/cmredux/static/css/1.8fefd672.chunk.css"
   },
   {
-    "revision": "fc7ccf01732583e7dc54439a7f4c1c09",
+    "revision": "876444e0885d72ad55b3bba3edb12467",
     "url": "/cmredux/index.html"
   }
 ];
